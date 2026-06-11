@@ -46,6 +46,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -56,4 +57,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
