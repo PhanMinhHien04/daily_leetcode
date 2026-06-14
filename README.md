@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
@@ -71,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,10 +98,19 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
