@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -90,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0086-partition-list/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
