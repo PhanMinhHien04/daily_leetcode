@@ -21,6 +21,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 ## Binary Tree
@@ -73,6 +74,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 ## Matrix
