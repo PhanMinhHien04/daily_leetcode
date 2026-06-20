@@ -24,6 +24,7 @@
 | [0069-sqrtx](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0704-binary-search/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0622-design-circular-queue/) | Medium |
+| [0704-binary-search](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
