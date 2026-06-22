@@ -55,6 +55,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1544-make-the-string-great/) | Easy |
 ## Array
@@ -63,6 +64,7 @@
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0622-design-circular-queue/) | Medium |
@@ -105,11 +107,13 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0075-sort-colors/) | Medium |
+| [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
