@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0169-majority-element](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0169-majority-element/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0169-majority-element](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
@@ -113,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
@@ -121,10 +124,12 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0169-majority-element/) | Easy |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Bit Manipulation
