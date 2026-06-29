@@ -25,6 +25,7 @@
 | [0069-sqrtx](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Tree
@@ -86,6 +87,7 @@
 | [0069-sqrtx](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
