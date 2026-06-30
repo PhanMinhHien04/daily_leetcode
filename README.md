@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 | [0622-design-circular-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
