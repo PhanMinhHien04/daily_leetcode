@@ -22,6 +22,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
@@ -65,6 +66,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
