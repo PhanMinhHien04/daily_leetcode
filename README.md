@@ -82,6 +82,7 @@
 | [0875-koko-eating-bananas](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@
 | ------- | ------- |
 | [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
+| [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +153,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 <!---LeetCode Topics End-->
