@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +163,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
