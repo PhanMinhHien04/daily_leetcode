@@ -82,6 +82,7 @@
 | [0622-design-circular-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -175,4 +178,13 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 <!---LeetCode Topics End-->
