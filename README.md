@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,11 +174,13 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
