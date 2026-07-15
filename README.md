@@ -90,6 +90,7 @@
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +191,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
