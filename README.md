@@ -80,6 +80,7 @@
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0704-binary-search/) | Easy |
@@ -111,6 +112,7 @@
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -169,6 +171,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Heap (Priority Queue)
@@ -188,6 +191,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
