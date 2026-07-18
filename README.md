@@ -185,6 +185,7 @@
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Backtracking
@@ -208,4 +210,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
