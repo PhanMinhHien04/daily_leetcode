@@ -67,6 +67,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0079-word-search/) | Medium |
 | [0179-largest-number](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0179-largest-number/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1544-make-the-string-great/) | Easy |
@@ -76,6 +77,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0079-word-search/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0169-majority-element/) | Easy |
@@ -115,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0054-spiral-matrix/) | Medium |
+| [0079-word-search](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -188,6 +191,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0079-word-search/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -214,6 +218,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0079-word-search/) | Medium |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
