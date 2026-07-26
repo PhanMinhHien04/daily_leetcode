@@ -196,6 +196,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0547-number-of-provinces](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -208,6 +209,7 @@
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -228,9 +230,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
