@@ -96,6 +96,7 @@
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0934-shortest-bridge](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -125,6 +126,7 @@
 | [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
+| [0934-shortest-bridge](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Simulation
@@ -205,6 +207,7 @@
 | [0733-flood-fill](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0934-shortest-bridge](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0934-shortest-bridge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@
 | [0773-sliding-puzzle](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0934-shortest-bridge](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Backtracking
