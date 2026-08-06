@@ -21,6 +21,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0690-employee-importance/) | Medium |
@@ -43,6 +44,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -199,6 +201,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -214,6 +217,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0547-number-of-provinces/) | Medium |
