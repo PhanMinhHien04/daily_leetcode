@@ -25,6 +25,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0690-employee-importance/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@
 | [0733-flood-fill](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0872-leaf-similar-trees](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0934-shortest-bridge](https://github.com/PhanMinhHien04/daily_leetcode/tree/main/0934-shortest-bridge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
